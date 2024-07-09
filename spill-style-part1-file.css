@@ -1,0 +1,12 @@
+/* Spill style. Modifications for userChrome file */
+
+/* ----- My Custom Colors ----- */
+:root {
+    --firefoxcss-bookmarks-bg-color: #16141C !important;
+}
+
+/* Main BAR */
+#main-window #navigator-toolbox {
+    border-bottom: 1px solid #343140 !important;
+}
+  
