@@ -59,8 +59,8 @@
 
     /* Tab colors */
     --firefoxcss-tab-bg-color: #24212B;
-    --firefoxcss-tab-hover-bg-color: #24212B;
-    --firefoxcss-tab-active-bg-color: var(--firefoxcss-main-bg-color);
+    --firefoxcss-tab-hover-bg-color: #3F3B4C;
+    --firefoxcss-tab-active-bg-color: #3F3B4C;
     --firefoxcss-non-active-tabs: hsla(0, 0%, 100%, 0.65);
 
     --firefoxcss-normal-tabs-box-shadow: 1px 1px 1px -1px rgba(0, 0, 0, 0.4);
@@ -75,7 +75,7 @@
     /* Context menu colors */
     --firefoxcss-context-menu-top-color: #16141C;
     /* Bookmarks bar colors */
-    --firefoxcss-bookmarks-bg-color: #16141C;
+    --firefoxcss-bookmarks-bg-color: #3F3B4C;
 
     /* Change background color when loading a page */
     --firefoxcss-bright-flash-color: var(--firefoxcss-item-bg-color);
@@ -84,15 +84,15 @@
     --firefoxcss-toolbar-button-box-shadow: rgba(0, 0, 0, 0.3);
     --firefoxcss-toolbar-button-active-box-shadow: rgba(0, 0, 0, 0.3);
 
-    --firefoxcss-new-tab-button-active: #24212B;
+    --firefoxcss-new-tab-button-active: #3F3B4C;
     --firefoxcss-new-tab-button-box-shadow-active: rgba(0, 0, 0, 0.6);
 
-    --firefoxcss-new-tab-button-hover: #24212B;
+    --firefoxcss-new-tab-button-hover: #3F3B4C;
     --firefoxcss-new-tab-button-box-shadow-hover: rgba(0, 0, 0, 0.5);
 
     /* Search Bar and breakout (when in focus) colors */
     --firefoxcss-url-bar-bg-color: var(--firefoxcss-main-bg-color);
-    --firefoxcss-url-border-bottom-color: 1px solid #24212B;
+    --firefoxcss-url-border-bottom-color: 1px solid #343140;
     --firefoxcss-url-border-top-color: 1px solid hsla(0, 0%, 0%, 0.15);
     --firefoxcss-url-breakout-bar-bg-color: var(--firefoxcss-main-bg-color);
     --firefoxcss-url-breakout-border-bottom-color: #16141C;
@@ -118,15 +118,15 @@
     
     /* ============== Firefox Global colors change ==================== */
     --arrowpanel-background: var(--firefoxcss-item-bg-color) !important;
-    --button-hover-bgcolor: #24212B !important;
-    --button-active-bgcolor: #24212B !important;
+    --button-hover-bgcolor: #3F3B4C !important;
+    --button-active-bgcolor: #3F3B4C !important;
     --button-bgcolor: #24212B !important;
     --arrowpanel-border-color: #24212B !important;
     --dark-menu-background-color: #16141C !important;
-    --dark-menu-border-color: #24212B !important;
+    --dark-menu-border-color: #343140 !important;
     --dark-menu-background-color: #16141C !important;
-    --dark-menu-border-color: #24212B !important;
-    --dark-menuitem-hover-background-color: #24212B !important;
+    --dark-menu-border-color: #343140 !important;
+    --dark-menuitem-hover-background-color: #3F3B4C !important;
     --panel-separator-color: var(--arrowpanel-border-color) !important;
     --panel-separator-zap-gradient: var(--panel-separator-color) !important;
     --lwt-sidebar-background-color: var(--firefoxcss-item-bg-color) !important;
